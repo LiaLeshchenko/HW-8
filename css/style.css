@@ -1,0 +1,18 @@
+#greycol {
+    color: gray;
+}
+
+h3 {
+    color: pink;
+}
+
+.text-box div  p {
+    color: red;
+}
+p {
+    color: green;
+
+}
+p.yellow {
+    color: yellow;
+}
